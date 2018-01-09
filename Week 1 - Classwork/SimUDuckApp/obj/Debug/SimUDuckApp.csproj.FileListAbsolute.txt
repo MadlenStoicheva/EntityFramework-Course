@@ -1,0 +1,6 @@
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\bin\Debug\SimUDuckApp.exe.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\bin\Debug\SimUDuckApp.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\bin\Debug\SimUDuckApp.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\obj\Debug\SimUDuckApp.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\obj\Debug\SimUDuckApp.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Втори триместър\EntityFramework\PU-DB-Apps-with-EF-master\Week 1\SimUDuckApp\obj\Debug\SimUDuckApp.pdb
